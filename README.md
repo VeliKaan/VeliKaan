@@ -42,6 +42,6 @@
 
 ###
 
-![snake gif](https://github.com/VeliKaan/VeliKaan/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/VeliKaan/VeliKaan/output/snake.svg" alt="Snake animation" />
 
 ###
